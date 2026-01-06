@@ -1,6 +1,6 @@
 /*
   Smart Medication Reminder Case (ESP32)
-  FINAL THESIS / PROTOTYPE VERSION
+  FINAL / PROTOTYPE VERSION
 */
 
 #include <WiFi.h>
